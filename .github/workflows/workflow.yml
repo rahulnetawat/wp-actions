@@ -11,3 +11,5 @@ jobs:
 
       - name: Connection validation
         run: ls
+    environment: 
+      name: DEV    
