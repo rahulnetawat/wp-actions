@@ -10,4 +10,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Connection validation
-        run: pwd
+        run: ls
